@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+}
+.container {
+  background: #fff;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 500px;
+}
+form {
+  display: flex;
+  gap: 10px;
+}
+input {
+  flex: 1;
+  padding: 0.5rem;
+}
+button {
+  padding: 0.5rem 1rem;
+}
+li {
+  list-style: none;
+  padding: 0.5rem;
+  border-bottom: 1px solid #ddd;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+li.completed {
+  text-decoration: line-through;
+  color: gray;
+}

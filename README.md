@@ -10,7 +10,9 @@ The app allows users to:
 - See styled error messages using Toastify.js
 - Persist tasks in memory during the session
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/mIUj-G8HT7s)
+[GitHub Repo](https://github.com/ErikBurton/todo-js-webapp)
+[GitHub Project Board](https://github.com/users/ErikBurton/projects/5)
 
 ---
 
